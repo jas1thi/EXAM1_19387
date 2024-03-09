@@ -22,4 +22,3 @@ This repository contains files for the Exam 1 submission.
 
 
 This repository contains files for the Exam 1 submission.
-![image](https://github.com/jas1thi/EXAM1_19387/assets/127890876/ce8d49f5-d1c1-4e8e-bf5d-9d739f04ee8a)
