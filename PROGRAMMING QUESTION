@@ -1,0 +1,31 @@
+1.	Create a new HTML document named: Exam1-Firstname-Lastname-SectionNumber (e.g., exam1¬-Mark-Smith-19387). (5 points)
+ 
+2.	Inside your HTML document, insert a form that includes the following elements:
+
+-- Two input fields for entering two different numbers. Each field should have a clear label: “Number 1:” and “Number 2:”. (5 points)
+-- A drop-down list with two select options: one for multiplication (*) and one for division (/).  (5 points)
+-- A submit button for user interaction (5 points) 
+
+3.	Apply CSS styling (either internal or external) as detailed below: (5 points)
+Set the background color of the first input field to pink.
+Set the background color of the second input field to greenyellow. 
+
+4.	Write a function or several functions to:
+-- Execute the operation chosen via the selection area using the two numbers input by the user.  (10 points)
+-- Then determine whether the resulting value is odd or even. (15 points)
+
+5.	Utilize event handling techniques to manage the form submission process effectively: display a message “The result is: xx; it is an odd/even number” before the form is submitted. (10 points)
+
+---------------------------------------------------------------------------------------
+Appendix:
+List of basic arithmetic operators:
+•	Addition (+)
+•	Subtraction (-)
+•	Multiplication (*)
+•	Division (/)
+•	Modulus (Remainder) (%)
+•	Increment (++)
+•	Decrement (--)
+•	Exponentiation (**)
+•	Unary negation (-)
+•	Unary plus (+)
