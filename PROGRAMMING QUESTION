@@ -10,15 +10,14 @@
 Set the background color of the first input field to pink.
 Set the background color of the second input field to greenyellow. 
 
-4.	Write a function or several functions to:
--- Execute the operation chosen via the selection area using the two numbers input by the user.  (10 points)
--- Then determine whether the resulting value is odd or even. (15 points)
+4.	Write a function or several functions so that clicking the submit button accomplishes the following: 
+-- Executes the operation chosen via the selection area using the two numbers input by the user. (20 points)
+-- Then displays a message: “The result is: xx”.  (5 points)
 
-5.	Utilize event handling techniques to manage the form submission process effectively: display a message “The result is: xx; it is an odd/even number” before the form is submitted. (10 points)
-
+5.	Utilize event handling techniques to manage the form submission process: This ensures that the calculation 
+and the message display are executed upon the button click and before the form is actually submitted. (10 points)
 ---------------------------------------------------------------------------------------
-Appendix:
-List of basic arithmetic operators:
+Reference materials: basic arithmetic operators
 •	Addition (+)
 •	Subtraction (-)
 •	Multiplication (*)
